@@ -131,16 +131,6 @@ VMs deployed on the **MTU College of Computing Cluster** using provided template
 
 ---
 
-## 📸 Screenshots 
-
-- ✅ Swagger UI on HAPI FHIR
-- ✅ Postman 201 Response from Practitioner POST
-- ✅ OpenEMR Web GUI
-- ✅ Synthea FHIR JSON files
-- ✅ Docker container logs (HAPI running)
-
----
-
 ## 🔒 Security Considerations
 
 - UFW configured to limit exposure
