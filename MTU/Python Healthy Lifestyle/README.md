@@ -3,9 +3,11 @@ How Technology Helps Healthy Behavior
 This repository contains a presentation exploring how modern technologies, particularly in the realm of health informatics, support healthier lifestyles. The slide deck highlights the benefits, challenges, and future opportunities of using tech solutions such as apps, wearables, and telehealth to promote well-being.
 
 📋 Overview
+
 With the growing concerns surrounding sedentary lifestyles and chronic health conditions, this presentation delves into the role of digital tools in encouraging healthy behaviors.
 
 🧠 Key Topics
+
 Health Informatics & Population Health
 Exploring the societal impact of digital health tools and data-driven support.
 
